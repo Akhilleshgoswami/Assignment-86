@@ -13,8 +13,8 @@ Includes:
 
 ##  Deployed Contracts (Sepolia)
 
-- RWAToken: https://sepolia.etherscan.io/address/0xc313D1390c92Aa106c8cbdf462a993893F469f2B  
-- Treasury: https://sepolia.etherscan.io/address/0x1944F77475988F5fb864706361E4f127765c07DC  
+- RWAToken:  https://sepolia.etherscan.io/address/0xA8114D4c922bccEE4316ed0191175701F195A149#code
+- Treasury:  https://sepolia.etherscan.io/address/0xbD56225867Cbb56B0dA9586d6b6079C17C388f26#code
 
 ---
 
