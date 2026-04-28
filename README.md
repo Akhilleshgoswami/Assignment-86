@@ -1,4 +1,4 @@
-````md
+
 # RWA Tokenisation Flow
 
 A minimal implementation of a Real World Asset (RWA) tokenisation system.
@@ -172,5 +172,4 @@ const RPC_URL = {
 
 ```bash
 npx hardhat run scripts/deploy.ts --network sepolia
-```
 
