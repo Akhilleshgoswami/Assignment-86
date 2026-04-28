@@ -48,7 +48,7 @@ Backend reads contract state and exposes APIs
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - Solidity `0.8.28`
 - Hardhat
@@ -58,7 +58,7 @@ Backend reads contract state and exposes APIs
 
 ---
 
-## 🚀 Setup
+##Setup
 
 **Node Version:** 22+
 
@@ -67,7 +67,16 @@ git clone <repo-url>
 cd rwa-tokenisation
 yarn install
 ````
+---
+## Environment Variables
 
+Create `.env`:
+```env
+PRIVATE_KEY=0x...
+SEPOLIA_RPC_URL=https://sepolia.infura.io/v3/<KEY>
+POLYGONSCAN_API_KEY=<KEY>
+
+```
 ---
 
 ## Scripts
@@ -130,8 +139,6 @@ Create `.env`:
 ```env
 PORT=3000
 PRIVATE_KEY=0x...
-SEPOLIA_RPC_URL=https://sepolia.infura.io/v3/<KEY>
-POLYGONSCAN_API_KEY=<KEY>
 
 ```
 ## start server 
